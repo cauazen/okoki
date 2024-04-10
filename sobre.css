@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding:0;
+   
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 30px;
+    background-color: transparent;
+    border-style:none
+}
+header ul{
+    display: flex;
+    gap: 130px;
+    font-size: 20px;
+    list-style: none;
+    
+}
+header a{
+   color: black;
+   
+   
+}
+.logo{
+    color: black;
+}
+    .section{
+     
+        border-bottom: px solid #999;
+        display: flex;
+        justify-content: space-around;
+        padding: 200px 500px;
+       
+    }
+    .direita img{
+        width: 2300%;
+        
+    }
+    .direita, .esquerda{
+     width:20px; 
+    }
+    body{
+        background-image: url(jorge.gif);
+       background-repeat: no-repeat;
+       background-size: cover;
+      
+       
+    }
+
+    .footer{
+        background-color:  rgb(202, 181, 111); ;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 10vh;
+        border-bottom: #999;
+        padding: 200px;
+    }
+
+    
+    
